@@ -23,12 +23,14 @@ If you are contributing to this project as part of ![Hacktoberfest](https://hack
 		git branch new-branch
 		git checkout new-branch
 1. Make your edits Locally
-		git add -A  
-1. Commit the changes 
+		git add -A
+1. Commit the changes
 		git commit -m "Fixed documentation typos"
 1. Submit a pull request
 		git push --set-upstream origin new-branch
-		
+
+Some more great information about how to work on this repository made by Colleen
+
 If there are any doubts, questions, etc, please open an issue and we can chat about it! Heck, if you have an idea but aren't sure how to approach it, open an issue anyway and we'll help you through it.
 
 Star this repo and stay tuned for updates.
